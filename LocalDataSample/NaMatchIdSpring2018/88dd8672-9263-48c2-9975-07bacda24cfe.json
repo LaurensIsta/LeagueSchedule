@@ -1,0 +1,9 @@
+{
+  "match": {
+    "id": "88dd8672-9263-48c2-9975-07bacda24cfe",
+    "blueTeam": "Cloud9",
+    "redTeam": "100 Thieves",
+    "week": "2",
+    "day": "2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "match": {
+    "id": "dd5d66cf-6ea7-48e4-bd87-ba5a1daa7332",
+    "blueTeam": "Cloud9",
+    "redTeam": "FlyQuest",
+    "week": "4",
+    "day": "2"
+  }
+}

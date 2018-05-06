@@ -1,0 +1,11 @@
+C:\Users\Laure\Documents\Visual Studio 2017\Projects\LeagueStandings\LeagueStandings\bin\Debug\netcoreapp2.0\LeagueStandings.deps.json
+C:\Users\Laure\Documents\Visual Studio 2017\Projects\LeagueStandings\LeagueStandings\bin\Debug\netcoreapp2.0\LeagueStandings.runtimeconfig.json
+C:\Users\Laure\Documents\Visual Studio 2017\Projects\LeagueStandings\LeagueStandings\bin\Debug\netcoreapp2.0\LeagueStandings.runtimeconfig.dev.json
+C:\Users\Laure\Documents\Visual Studio 2017\Projects\LeagueStandings\LeagueStandings\bin\Debug\netcoreapp2.0\LeagueStandings.dll
+C:\Users\Laure\Documents\Visual Studio 2017\Projects\LeagueStandings\LeagueStandings\obj\Debug\netcoreapp2.0\LeagueStandings.csprojResolveAssemblyReference.cache
+C:\Users\Laure\Documents\Visual Studio 2017\Projects\LeagueStandings\LeagueStandings\obj\Debug\netcoreapp2.0\LeagueStandings.csproj.CoreCompileInputs.cache
+C:\Users\Laure\Documents\Visual Studio 2017\Projects\LeagueStandings\LeagueStandings\obj\Debug\netcoreapp2.0\LeagueStandings.AssemblyInfoInputs.cache
+C:\Users\Laure\Documents\Visual Studio 2017\Projects\LeagueStandings\LeagueStandings\obj\Debug\netcoreapp2.0\LeagueStandings.AssemblyInfo.cs
+C:\Users\Laure\Documents\Visual Studio 2017\Projects\LeagueStandings\LeagueStandings\bin\Debug\netcoreapp2.0\LeagueStandings.pdb
+C:\Users\Laure\Documents\Visual Studio 2017\Projects\LeagueStandings\LeagueStandings\obj\Debug\netcoreapp2.0\LeagueStandings.dll
+C:\Users\Laure\Documents\Visual Studio 2017\Projects\LeagueStandings\LeagueStandings\obj\Debug\netcoreapp2.0\LeagueStandings.pdb

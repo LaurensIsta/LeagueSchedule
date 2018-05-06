@@ -1,0 +1,9 @@
+{
+  "match": {
+    "id": "7f0f709c-973e-4e80-85bb-51034a8b5c1b",
+    "blueTeam": "Cloud9",
+    "redTeam": "Echo Fox",
+    "week": "5",
+    "day": "2"
+  }
+}

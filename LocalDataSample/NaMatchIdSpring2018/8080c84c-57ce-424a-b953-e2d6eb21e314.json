@@ -1,0 +1,9 @@
+{
+  "match": {
+    "id": "8080c84c-57ce-424a-b953-e2d6eb21e314",
+    "blueTeam": "Echo Fox",
+    "redTeam": "100 Thieves",
+    "week": "9",
+    "day": "2"
+  }
+}

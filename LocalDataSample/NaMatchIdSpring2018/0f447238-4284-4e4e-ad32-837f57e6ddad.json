@@ -1,0 +1,9 @@
+{
+  "match": {
+    "id": "0f447238-4284-4e4e-ad32-837f57e6ddad",
+    "blueTeam": "Cloud9",
+    "redTeam": "100 Thieves",
+    "week": "6",
+    "day": "1"
+  }
+}
