@@ -25,7 +25,7 @@ Shows the matches for a given WEEKNUMBER between 1-9.
 Updates the local storage with all available data on the NALCS. 
 
 <> update teams \
-Updates the local storage with data that is available on the teams that are currently in playing in the NALCS. 
+Updates the local storage with data that is available on the teams that are currently playing in the NALCS. 
 
 ## TODO
 * Clean up code.
